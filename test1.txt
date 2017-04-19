@@ -5,3 +5,10 @@ r
 fadf
 i merge
 2 merge2 merge
+
+d
+df
+
+gd
+:wq
+
