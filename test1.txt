@@ -3,4 +3,5 @@ test1.tt
 workd add a new line
 r
 fadf
+i merge
 
